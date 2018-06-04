@@ -1,0 +1,195 @@
+For PIGS:
+
+For screened dipole:
+
+beta convergence:
+
+tau convergence:
+1. PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment0.45Debye-beta0.2Kinv-Blocks100000-Passes100-System2HF-e0vsbeadsPIMC/  COMPLETE
+2. PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment0.45Debye-beta0.2Kinv-Blocks100000-Passes200-System2HF-e0vsbeadsPIMC/  COMPLETE
+3. PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment0.45Debye-beta0.2Kinv-Blocks100000-Passes400-System2HF-e0vsbeadsPIMC/  COMPLETE
+
+4. PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment0.45Debye-beta0.2Kinv-Blocks200000-Passes200-System2HF-e0vsbeadsPIMC/  COMPLETE
+5. PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment0.45Debye-beta0.2Kinv-Blocks200000-Passes200-System3HF-e0vsbeadsPIMC/ COMPLETE
+6. PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment0.45Debye-beta0.2Kinv-Blocks200000-Passes200-System4HF-e0vsbeadsPIMC/ COMPLETE
+
+
+For ENT:
+
+For screened dipole:
+===================
+
+beta convergence (tau 0.005):
+
+1. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment0.45Debye-tau0.005Kinv-Blocks200000-Passes100-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+2. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment0.45Debye-tau0.005Kinv-Blocks200000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+3. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment0.45Debye-tau0.005Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+
+tau convergence (beta 0.2):
+
+1. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment0.45Debye-beta0.2Kinv-Blocks200000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ PARTIALLY
+
+2. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment0.45Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+3. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment0.45Debye-beta0.2Kinv-Blocks50000-Passes200-System4HF-ParticleA2-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE 
+4. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment0.45Debye-beta0.2Kinv-Blocks50000-Passes200-System6HF-ParticleA3-e0vsbeads-SWAPTOUNSWAPPIMC/
+5. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment0.45Debye-beta0.2Kinv-Blocks50000-Passes200-System8HF-ParticleA4-e0vsbeads-SWAPTOUNSWAPPIMC/
+6. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment0.45Debye-beta0.2Kinv-Blocks50000-Passes200-System10HF-ParticleA5-e0vsbeads-SWAPTOUNSWAPPIMC/
+
+tau convergence (beta 0.1):
+
+1. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment0.45Debye-beta0.1Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+2. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment0.45Debye-beta0.1Kinv-Blocks50000-Passes200-System4HF-ParticleA2-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+3. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment0.45Debye-beta0.1Kinv-Blocks50000-Passes200-System6HF-ParticleA3-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE 
+4. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment0.45Debye-beta0.1Kinv-Blocks50000-Passes200-System8HF-ParticleA4-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+5. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment0.45Debye-beta0.1Kinv-Blocks50000-Passes200-System10HF-ParticleA5-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE A
+
+For unscreened dipole:
+=====================
+
+beta convergence (tau 0.005):
+
+1. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.826Debye-tau0.005Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+
+tau convergence (beta 0.2):
+
+1. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.826Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+2. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.826Debye-beta0.2Kinv-Blocks50000-Passes200-System4HF-ParticleA2-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+3. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.826Debye-beta0.2Kinv-Blocks50000-Passes200-System6HF-ParticleA3-e0vsbeads-SWAPTOUNSWAPPIMC/
+4. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.826Debye-beta0.2Kinv-Blocks50000-Passes200-System8HF-ParticleA4-e0vsbeads-SWAPTOUNSWAPPIMC/
+5. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.826Debye-beta0.2Kinv-Blocks50000-Passes200-System10HF-ParticleA5-e0vsbeads-SWAPTOUNSWAPPIMC/
+
+tau convergence (beta 0.1):
+
+1. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.826Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+2. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.826Debye-beta0.2Kinv-Blocks50000-Passes200-System4HF-ParticleA2-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+3. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.826Debye-beta0.2Kinv-Blocks50000-Passes200-System6HF-ParticleA3-e0vsbeads-SWAPTOUNSWAPPIMC/
+4. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.826Debye-beta0.2Kinv-Blocks50000-Passes200-System8HF-ParticleA4-e0vsbeads-SWAPTOUNSWAPPIMC/
+5. ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.826Debye-beta0.2Kinv-Blocks50000-Passes200-System10HF-ParticleA5-e0vsbeads-SWAPTOUNSWAPPIMC/
+
+
+For various gFactor:
+=====================
+
+tau convergence (beta = 0.2):
+
+2 HF molecules SWAPTOUNSWAP
+==============
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.652Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment10.0Debye-beta0.2Kinv-Blocks20000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment9.0Debye-beta0.2Kinv-Blocks20000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment8.0Debye-beta0.2Kinv-Blocks20000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment7.0Debye-beta0.2Kinv-Blocks20000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment6.0Debye-beta0.2Kinv-Blocks20000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment5.0Debye-beta0.2Kinv-Blocks20000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment4.5Debye-beta0.2Kinv-Blocks20000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment4.0Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.75Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.5Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.25Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.0Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.75Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.5Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/COMPLETE 
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.25Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.0Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.75Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.5Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.25Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.0Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE 
+
+2 HF molecules BROKENPATH
+==============
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.0Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-BROKENPATHPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.5Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-BROKENPATHPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.0Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-BROKENPATHPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.5Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-BROKENPATHPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.0Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-BROKENPATHPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.5Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-BROKENPATHPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment4.0Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-BROKENPATHPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment4.5Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-BROKENPATHPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment5.0Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-BROKENPATHPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment5.5Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-BROKENPATHPIMC/ RUNNING
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment6.0Debye-beta0.2Kinv-Blocks50000-Passes200-System2HF-ParticleA1-e0vsbeads-BROKENPATHPIMC/ COMPLETE
+
+2 HF molecules PIGS
+==============
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.0Debye-beta0.2Kinv-Blocks50000-Passes50-System2HF-e0vsbeadsPIMC/ COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.5Debye-beta0.2Kinv-Blocks50000-Passes50-System2HF-e0vsbeadsPIMC/ COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.0Debye-beta0.2Kinv-Blocks50000-Passes50-System2HF-e0vsbeadsPIMC/ COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.5Debye-beta0.2Kinv-Blocks50000-Passes50-System2HF-e0vsbeadsPIMC/ COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.0Debye-beta0.2Kinv-Blocks50000-Passes50-System2HF-e0vsbeadsPIMC/ COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.5Debye-beta0.2Kinv-Blocks50000-Passes50-System2HF-e0vsbeadsPIMC/ COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment4.0Debye-beta0.2Kinv-Blocks50000-Passes50-System2HF-e0vsbeadsPIMC/ COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment4.5Debye-beta0.2Kinv-Blocks50000-Passes50-System2HF-e0vsbeadsPIMC/ COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment5.0Debye-beta0.2Kinv-Blocks50000-Passes50-System2HF-e0vsbeadsPIMC/ COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment5.5Debye-beta0.2Kinv-Blocks50000-Passes50-System2HF-e0vsbeadsPIMC/ COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment6.0Debye-beta0.2Kinv-Blocks50000-Passes50-System2HF-e0vsbeadsPIMC/ COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment6.5Debye-beta0.2Kinv-Blocks50000-Passes50-System2HF-e0vsbeadsPIMC/ RUNNING
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment7.0Debye-beta0.2Kinv-Blocks50000-Passes50-System2HF-e0vsbeadsPIMC/ RUNNING
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment7.5Debye-beta0.2Kinv-Blocks50000-Passes50-System2HF-e0vsbeadsPIMC/ RUNNING
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment8.0Debye-beta0.2Kinv-Blocks50000-Passes50-System2HF-e0vsbeadsPIMC/ RUNNING
+
+4 HF molecules SWAPTOUNSWAP
+==============
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.0Debye-beta0.2Kinv-Blocks20000-Passes200-System4HF-ParticleA2-e0vsbeads-SWAPTOUNSWAPPIMC/  COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.5Debye-beta0.2Kinv-Blocks20000-Passes200-System4HF-ParticleA2-e0vsbeads-SWAPTOUNSWAPPIMC/  81
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.0Debye-beta0.2Kinv-Blocks20000-Passes200-System4HF-ParticleA2-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.5Debye-beta0.2Kinv-Blocks20000-Passes200-System4HF-ParticleA2-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.0Debye-beta0.2Kinv-Blocks20000-Passes200-System4HF-ParticleA2-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.5Debye-beta0.2Kinv-Blocks20000-Passes200-System4HF-ParticleA2-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment4.0Debye-beta0.2Kinv-Blocks20000-Passes200-System4HF-ParticleA2-e0vsbeads-SWAPTOUNSWAPPIMC/ 
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment4.5Debye-beta0.2Kinv-Blocks20000-Passes200-System4HF-ParticleA2-e0vsbeads-SWAPTOUNSWAPPIMC/ 
+
+4 HF molecules BROKENPATH
+==============
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.0Debye-beta0.2Kinv-Blocks50000-Passes200-System4HF-ParticleA2-e0vsbeads-BROKENPATHPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.5Debye-beta0.2Kinv-Blocks50000-Passes200-System4HF-ParticleA2-e0vsbeads-BROKENPATHPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.0Debye-beta0.2Kinv-Blocks50000-Passes200-System4HF-ParticleA2-e0vsbeads-BROKENPATHPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.5Debye-beta0.2Kinv-Blocks50000-Passes200-System4HF-ParticleA2-e0vsbeads-BROKENPATHPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment4.0Debye-beta0.2Kinv-Blocks50000-Passes200-System4HF-ParticleA2-e0vsbeads-BROKENPATHPIMC/ COMPLETE
+
+4 HF molecules PIGS
+==============
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.0Debye-beta0.2Kinv-Blocks50000-Passes50-System4HF-e0vsbeadsPIMC/ COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.5Debye-beta0.2Kinv-Blocks50000-Passes50-System4HF-e0vsbeadsPIMC/ COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.0Debye-beta0.2Kinv-Blocks50000-Passes50-System4HF-e0vsbeadsPIMC/ COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.5Debye-beta0.2Kinv-Blocks50000-Passes50-System4HF-e0vsbeadsPIMC/ COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.0Debye-beta0.2Kinv-Blocks50000-Passes50-System4HF-e0vsbeadsPIMC/ COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.5Debye-beta0.2Kinv-Blocks50000-Passes50-System4HF-e0vsbeadsPIMC/ COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment4.0Debye-beta0.2Kinv-Blocks50000-Passes50-System4HF-e0vsbeadsPIMC/ COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment4.5Debye-beta0.2Kinv-Blocks50000-Passes50-System4HF-e0vsbeadsPIMC/ RUNNING
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment5.0Debye-beta0.2Kinv-Blocks50000-Passes50-System4HF-e0vsbeadsPIMC/ RUNNING
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment5.5Debye-beta0.2Kinv-Blocks50000-Passes50-System4HF-e0vsbeadsPIMC/ RUNNING
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment6.0Debye-beta0.2Kinv-Blocks50000-Passes50-System4HF-e0vsbeadsPIMC/ RUNNING
+
+6 HF molecules SWAPTOUNSWAP
+==============
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.0Debye-beta0.2Kinv-Blocks20000-Passes200-System6HF-ParticleA3-e0vsbeads-SWAPTOUNSWAPPIMC/  COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.25Debye-beta0.2Kinv-Blocks20000-Passes200-System6HF-ParticleA3-e0vsbeads-SWAPTOUNSWAPPIMC/ RUNNING
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.5Debye-beta0.2Kinv-Blocks20000-Passes200-System6HF-ParticleA3-e0vsbeads-SWAPTOUNSWAPPIMC/  COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.75Debye-beta0.2Kinv-Blocks20000-Passes200-System6HF-ParticleA3-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.0Debye-beta0.2Kinv-Blocks20000-Passes200-System6HF-ParticleA3-e0vsbeads-SWAPTOUNSWAPPIMC/  COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.25Debye-beta0.2Kinv-Blocks20000-Passes200-System6HF-ParticleA3-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.5Debye-beta0.2Kinv-Blocks20000-Passes200-System6HF-ParticleA3-e0vsbeads-SWAPTOUNSWAPPIMC/  COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.75Debye-beta0.2Kinv-Blocks20000-Passes200-System6HF-ParticleA3-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.0Debye-beta0.2Kinv-Blocks20000-Passes200-System6HF-ParticleA3-e0vsbeads-SWAPTOUNSWAPPIMC/  COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.25Debye-beta0.2Kinv-Blocks20000-Passes200-System6HF-ParticleA3-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.5Debye-beta0.2Kinv-Blocks20000-Passes200-System6HF-ParticleA3-e0vsbeads-SWAPTOUNSWAPPIMC/  COMPLETE
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.5Debye-beta0.2Kinv-Blocks50000-Passes200-System6HF-ParticleA3-e0vsbeads-SWAPTOUNSWAPPIMC/  
+
+7 HF molecules PIGS
+==============
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.25Debye-beta0.2Kinv-Blocks20000-Passes200-System7HF-e0vsbeadsPIMC/  COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.25Debye-beta0.2Kinv-Blocks20000-Passes200-System7HF-e0vsbeadsPIMC/  81
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.25Debye-beta0.2Kinv-Blocks20000-Passes200-System7HF-e0vsbeadsPIMC/  COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment1.25Debye-beta0.2Kinv-Blocks20000-Passes50-System7HF-e0vsbeadsPIMC/  COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.25Debye-beta0.2Kinv-Blocks20000-Passes50-System7HF-e0vsbeadsPIMC/  COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.25Debye-beta0.2Kinv-Blocks20000-Passes50-System7HF-e0vsbeadsPIMC/  COMPLETE
+PIGS-RotDOFs-Rpt10.05Angstrom-DipoleMoment5.0Debye-beta0.2Kinv-Blocks20000-Passes50-System7HF-e0vsbeadsPIMC/  61
+
+8 HF molecules SWAPTOUNSWAP
+==============
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.0Debye-beta0.2Kinv-Blocks20000-Passes200-System8HF-ParticleA4-e0vsbeads-SWAPTOUNSWAPPIMC/ COMPLETE 
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.0Debye-beta0.2Kinv-Blocks50000-Passes200-System8HF-ParticleA4-e0vsbeads-SWAPTOUNSWAPPIMC/  
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment2.5Debye-beta0.2Kinv-Blocks50000-Passes200-System8HF-ParticleA4-e0vsbeads-SWAPTOUNSWAPPIMC/  
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.0Debye-beta0.2Kinv-Blocks50000-Passes200-System8HF-ParticleA4-e0vsbeads-SWAPTOUNSWAPPIMC/  
+ENT-RotDOFs-Rpt10.05Angstrom-DipoleMoment3.5Debye-beta0.2Kinv-Blocks50000-Passes200-System8HF-ParticleA4-e0vsbeads-SWAPTOUNSWAPPIMC/  
