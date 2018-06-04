@@ -1,0 +1,5 @@
+GRID 15
+JROT jrot
+SKIP nskip
+#
+BONDLENGTHS		1.42	1.42	6.96181   #bohr
